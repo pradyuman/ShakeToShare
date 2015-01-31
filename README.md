@@ -1,8 +1,8 @@
 ShakeToShare
 ===========
 
-This program is way to send contact information by shaking hands (using Pebble smartwatches and Android). 
+Using ShakeToShare, users can share their contact information by shaking hands with each other. This in turn simplifies the whole process of networking and meeting new people. With ShakeToShare, business cards are sure to become a thing of the past!
 
-In progress:
--Send payment information by venmo using different gestures.
+
+
 
