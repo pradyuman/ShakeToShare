@@ -1,0 +1,28 @@
+apply plugin: 'com.android.application'
+
+android {
+    compileSdkVersion 19
+    buildToolsVersion "21.1.1"
+
+    defaultConfig {
+        applicationId "cdlewis.pebbleaccelstream"
+        minSdkVersion 14
+        targetSdkVersion 19
+    }
+
+    buildTypes {
+        release {
+            runProguard false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.txt'
+        }
+    }
+}
+
+dependencies {
+    compile 'com.google.code.gson:gson:2.2.2'
+    compile 'com.getpebble:pebblekit:2.6.0@aar'
+    compile files('libs/GraphView-3.1.1.jar')
+    compile files('libs/mobileservices-1.1.5-javadoc.jar')
+    compile files('libs/mobileservices-1.1.5-sources.jar')
+    compile files('libs/mobileservices-1.1.5.jar')
+}

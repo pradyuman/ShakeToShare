@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="2.6.0"><source path="/home/andrew/pebble-dev/accelstream-android2/app/build/intermediates/exploded-aar/com.getpebble/pebblekit/2.6.0/assets"/></dataSet><dataSet config="main"><source path="/home/andrew/pebble-dev/accelstream-android2/app/src/main/assets"/></dataSet><dataSet config="debug"><source path="/home/andrew/pebble-dev/accelstream-android2/app/src/debug/assets"/></dataSet></merger>

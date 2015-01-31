@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<pre-dex-items>
+
+    <item
+        dex="/home/andrew/pebble-dev/accelstream-android2/app/build/intermediates/pre-dexed/debug/mobileservices-1.1.5-146505d73eed4ec3b61967568b447641e3671aef.jar"
+        jar="/home/andrew/pebble-dev/accelstream-android2/app/libs/mobileservices-1.1.5.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="12188408c45b88124cb38dd2bedc9b314b5f554b"/>
+    <item
+        dex="/home/andrew/pebble-dev/accelstream-android2/app/build/intermediates/pre-dexed/debug/mobileservices-1.1.5-sources-425d963fe42d906b13f6fd65106154421e90d3ec.jar"
+        jar="/home/andrew/pebble-dev/accelstream-android2/app/libs/mobileservices-1.1.5-sources.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="03d90579555ed2d2f98334a966f6e72d93dc51fc"/>
+    <item
+        dex="/home/andrew/pebble-dev/accelstream-android2/app/build/intermediates/pre-dexed/debug/mobileservices-1.1.5-javadoc-d99d9bbd911a447a51369e2b2ae5fe790c6a2249.jar"
+        jar="/home/andrew/pebble-dev/accelstream-android2/app/libs/mobileservices-1.1.5-javadoc.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="3b8efb4aebbdf06530dc05ac727d220be5d6a0db"/>
+    <item
+        dex="/home/andrew/pebble-dev/accelstream-android2/app/build/intermediates/pre-dexed/debug/gson-2.2.2-6507f9078d07888c684401bbd4ec8bcacdbeba3d.jar"
+        jar="/home/andrew/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.2.2/1f96456ca233dec780aa224bff076d8e8bca3908/gson-2.2.2.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="1f96456ca233dec780aa224bff076d8e8bca3908"/>
+    <item
+        dex="/home/andrew/pebble-dev/accelstream-android2/app/build/intermediates/pre-dexed/debug/GraphView-3.1.1-b639886f536181b1edfb7e4f53e902895b172ac8.jar"
+        jar="/home/andrew/pebble-dev/accelstream-android2/app/libs/GraphView-3.1.1.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="fde5ac3b4d45761447598d87b4c43cc4d143890a"/>
+    <item
+        dex="/home/andrew/pebble-dev/accelstream-android2/app/build/intermediates/pre-dexed/debug/classes-ff55fadb45cc57824e672df1cba32451bc5e217f.jar"
+        jar="/home/andrew/pebble-dev/accelstream-android2/app/build/intermediates/exploded-aar/com.getpebble/pebblekit/2.6.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="660dc1d342b8e31da1cc51e79c66d636a77a1e98"/>
+
+</pre-dex-items>
