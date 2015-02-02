@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <!-- From: file:/home/andrew/pebble-dev/accelstream-android2/app/src/main/res/values/dimens.xml -->
+    <!-- From: file:/Users/Forrest/Documents/Computer%20Science/AndroidStudioProjects/Link/Android/app/src/main/res/values/dimens.xml -->
     <eat-comment/>
     <dimen name="activity_horizontal_margin">16dp</dimen>
     <dimen name="activity_vertical_margin">16dp</dimen>
-    <!-- From: file:/home/andrew/pebble-dev/accelstream-android2/app/build/intermediates/exploded-aar/com.getpebble/pebblekit/2.6.0/res/values/values.xml -->
+    <!-- From: file:/Users/Forrest/Documents/Computer%20Science/AndroidStudioProjects/Link/Android/app/build/intermediates/exploded-aar/com.getpebble/pebblekit/2.6.0/res/values/values.xml -->
     <eat-comment/>
     <string name="app_name">PEBBLE_SPORTS_SDK</string>
-    <!-- From: file:/home/andrew/pebble-dev/accelstream-android2/app/src/main/res/values/styles.xml -->
+    <!-- From: file:/Users/Forrest/Documents/Computer%20Science/AndroidStudioProjects/Link/Android/app/src/main/res/values/styles.xml -->
     <eat-comment/>
     <style name="AppBaseTheme" parent="android:Theme.Light">
         <!--
