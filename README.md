@@ -1,4 +1,4 @@
-Shake2Share
+ShakeToShare
 ===========
 
 This project was built at Wildhacks 2014 (Northwestern University) by Andrew Braun, Pradyuman Vig, Krishna Mittal, Harshit Agarwal and Nihar Sheth. It won the Microsoft Sponsor Prize at the hackathon.
